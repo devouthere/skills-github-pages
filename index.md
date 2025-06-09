@@ -1,6 +1,5 @@
 ---
 title: Welcome to my blog!
-
 Este é um teste de mudança na página criada com GitHub Pages.
 # teste de negrito
 
